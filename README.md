@@ -1,8 +1,10 @@
 CI/CD Pipeline for Java Application
 
+
 Objective:
 
 Developed a basic CI/CD pipeline to automate the build, testing and deployment of a Java application using GitHub, Jenkins, and Docker.
+
 
 Tools & Technologies used:
 
@@ -16,6 +18,7 @@ Tools & Technologies used:
 
 5.Eclipse IDE
 
+
 Project Workflow:
 
 ~Developed a basic Java application.
@@ -27,6 +30,7 @@ Project Workflow:
 ~Created a Docker image for the application.
 
 ~Ran the application inside a Docker container.
+
 
 Learning Outcomes:
 
